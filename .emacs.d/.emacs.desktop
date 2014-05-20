@@ -1,0 +1,315 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Tue May 20 13:35:50 2014
+;; Desktop file format version 206
+;; Emacs version 24.3.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("mult" "without " "the fact" "changes" "appendix" "addcon" "\\end{p" "appendices" "\\newc" "\\" "Claim" "line" "figure" "long" "The pro" "Partil"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("/home/iensen/Dropbox/plog/explanatiuon/desc.tex" "/home/iensen/Dropbox/plog/explanatiuon/bt2.txt" "/home/iensen/Dropbox/classes/DP/final_report/functional_testing.tex" "/home/iensen/Dropbox/classes/DP/slidez/auto/preentation.el" "/home/iensen/Dropbox/classes/ProbabilisticRobotics/final_report/PLOGPLAN.tex" "/home/iensen/Dropbox/classes/ProbabilisticRobotics/plog_pr/p2_3x3_new2.plog" "/home/iensen/Dropbox/classes/ProbabilisticRobotics/plog_planner/plogrunner.py" "/home/iensen/Dropbox/classes/ProbabilisticRobotics/plog_planner/main.py" "/home/iensen/Dropbox/classes/ProbabilisticRobotics/plog_planner/possibleworld.py" "/home/iensen/Dropbox/classes/ProbabilisticRobotics/plog_planner/main.py" "/home/iensen/Dropbox/classes/ProbabilisticRobotics/plog_planner/plogrunner.py" "/home/iensen/Dropbox/classes/ProbabilisticRobotics/plog_planner/main.py" "/home/iensen/Dropbox/classes/ProbabilisticRobotics/plog_planner/possibleworld.py" "/home/iensen/Dropbox/classes/ProbabilisticRobotics/plog_planner/main.py" "/home/iensen/Dropbox/classes/ProbabilisticRobotics/plog_planner/.#planner.py" "/home/iensen/Dropbox/classes/ProbabilisticRobotics/plog_planner/main.py" "/home/iensen/Dropbox/classes/ProbabilisticRobotics/plog_pr/out.txt" "/home/iensen/Dropbox/classes/ProbabilisticRobotics/plog_pr/robot_move.plog" "/home/iensen/Dropbox/classes/ProbabilisticRobotics/plog_pr/out.txt" "/home/iensen/spec/spec.tex" "/home/iensen/Dropbox/classes/DP/10.04/presentation.tex" "/home/iensen/Dropbox/classes/causality/bn/bn.hs" "/home/iensen/sparc_project/User_Manual/Sparc_Manual.tex" "/home/iensen/elps/Manual/Elps_Manual.tex" "/home/iensen/elps/Manual/Elps_Manual.log" "/home/iensen/elps/Manual/Elps_Manual.tex" "/home/iensen/sparc_project/User_Manual/Sparc_Manual.tex" "/home/iensen/elps/tests/ex61" "/home/iensen/elps/tests/ex60" "/home/iensen/elps/tests/ex59"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/iensen/last_elps/ELPS/ELPS.tex"
+  "ELPS.tex"
+  'latex-mode
+  '(visual-line-mode ergoemacs-mode linum-mode yas/minor-mode TeX-PDF-mode reftex-mode flyspell-mode)
+  10291
+  '(9614 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-dos) (case-fold-search . t) (truncate-lines) (TeX-master . t)))
+
+(desktop-create-buffer 206
+  "/home/iensen/Dropbox/plog/correction/claim.tex"
+  "claim.tex"
+  'latex-mode
+  '(visual-line-mode ergoemacs-mode linum-mode yas/minor-mode TeX-PDF-mode reftex-mode flyspell-mode)
+  735
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/iensen/Dropbox/classes/DP/final_report/functional_testing.tex"
+  "functional_testing.tex"
+  'latex-mode
+  '(visual-line-mode ergoemacs-mode linum-mode yas/minor-mode TeX-PDF-mode reftex-mode flyspell-mode)
+  27133
+  '(34287 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (case-fold-search) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/iensen/Dropbox/classes/DP/slidez/preentation.tex"
+  "preentation.tex"
+  'latex-mode
+  '(visual-line-mode ergoemacs-mode linum-mode yas/minor-mode TeX-PDF-mode reftex-mode flyspell-mode)
+  10475
+  '(10475 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (case-fold-search . t) (truncate-lines) (TeX-master . t)))
+
+(desktop-create-buffer 206
+  "/home/iensen/Dropbox/plog/explanatiuon/desc.tex"
+  "desc.tex"
+  'latex-mode
+  '(visual-line-mode ergoemacs-mode linum-mode undo-tree-mode yas/minor-mode TeX-PDF-mode reftex-mode flyspell-mode)
+  397
+  '(891 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/iensen/Dropbox/plog/explanatiuon/bt2.txt"
+  "bt2.txt"
+  'text-mode
+  '(ergoemacs-mode undo-tree-mode yas/minor-mode TeX-PDF-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos)))
+
+(desktop-create-buffer 206
+  "/home/iensen/Dropbox/classes/DP/final_report/functional_testing.aux"
+  "functional_testing.aux"
+  'fundamental-mode
+  '(visual-line-mode ergoemacs-mode linum-mode undo-tree-mode yas/minor-mode TeX-PDF-mode reftex-mode flyspell-mode)
+  758
+  '(891 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/iensen/Dropbox/classes/ProbabilisticRobotics/final_report/PLOGPLAN.tex"
+  "PLOGPLAN.tex"
+  'latex-mode
+  '(visual-line-mode ergoemacs-mode linum-mode yas/minor-mode TeX-PDF-mode reftex-mode flyspell-mode)
+  48187
+  '(47874 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-dos) (overwrite-mode) (case-fold-search) (truncate-lines) (TeX-master . t)))
+
+(desktop-create-buffer 206
+  "/home/iensen/Dropbox/classes/causality/bn/doc/doc.tex"
+  "doc.tex"
+  'latex-mode
+  '(visual-line-mode ergoemacs-mode linum-mode yas/minor-mode TeX-PDF-mode reftex-mode flyspell-mode)
+  2872
+  '(2775 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/iensen/Dropbox/classes/causality/bn/spec/spec.tex"
+  "spec.tex"
+  'latex-mode
+  '(visual-line-mode ergoemacs-mode linum-mode yas/minor-mode TeX-PDF-mode reftex-mode flyspell-mode)
+  754
+  '(704 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/iensen/Dropbox/classes/causality/bn/bn2.hs"
+  "bn2.hs"
+  'haskell-mode
+  '(haskell-doc-mode haskell-indent-mode ergoemacs-mode linum-mode auto-complete-mode TeX-PDF-mode haskell-indentation-mode)
+  8784
+  '(6597 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/iensen/Dropbox/classes/ProbabilisticRobotics/plog_pr/p2_3x3_new2.plog"
+  "p2_3x3_new2.plog"
+  'prolog-mode
+  '(ergoemacs-mode linum-mode TeX-PDF-mode)
+  2974
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/iensen/Dropbox/olymp_problems/ttu_training/CookBook/cookbook.tex"
+  "cookbook.tex"
+  'latex-mode
+  '(visual-line-mode ergoemacs-mode linum-mode yas/minor-mode TeX-PDF-mode reftex-mode flyspell-mode)
+  10558
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/iensen/Dropbox/classes/ProbabilisticRobotics/plog_planner/plogrunner.py"
+  "plogrunner.py"
+  'python-mode
+  '(ergoemacs-mode linum-mode undo-tree-mode yas/minor-mode auto-complete-mode TeX-PDF-mode)
+  2647
+  '(2657 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/iensen/Dropbox/classes/ProbabilisticRobotics/plog_planner/main.py"
+  "main.py"
+  'python-mode
+  '(ergoemacs-mode linum-mode undo-tree-mode yas/minor-mode auto-complete-mode TeX-PDF-mode)
+  1973
+  '(1552 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/iensen/Dropbox/classes/ProbabilisticRobotics/plog_planner/possibleworld.py"
+  "possibleworld.py"
+  'python-mode
+  '(ergoemacs-mode linum-mode undo-tree-mode yas/minor-mode auto-complete-mode TeX-PDF-mode)
+  3182
+  '(2101 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/iensen/Dropbox/classes/ProbabilisticRobotics/plog_planner/planner.py"
+  "planner.py"
+  'python-mode
+  '(ergoemacs-mode linum-mode yas/minor-mode auto-complete-mode TeX-PDF-mode)
+  1135
+  '(1641 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/iensen/Dropbox/classes/ProbabilisticRobotics/plog_pr/out.txt"
+  "out.txt"
+  'prolog-mode
+  '(ergoemacs-mode linum-mode TeX-PDF-mode)
+  1777
+  '(1760 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/iensen/plog_pr/robot_move.plog"
+  "robot_move.plog"
+  'prolog-mode
+  '(ergoemacs-mode linum-mode TeX-PDF-mode)
+  282
+  '(310 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/iensen/Dropbox/classes/ProbabilisticRobotics/final_report/PLOGPLAN.log"
+  "PLOGPLAN.log"
+  'fundamental-mode
+  '(visual-line-mode ergoemacs-mode linum-mode undo-tree-mode yas/minor-mode TeX-PDF-mode reftex-mode flyspell-mode)
+  29238
+  '(106 nil)
+  t
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . raw-text-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/iensen/Dropbox/classes/ProbabilisticRobotics/final_report/_region_.tex"
+  "_region_.tex"
+  'latex-mode
+  '(visual-line-mode ergoemacs-mode linum-mode undo-tree-mode yas/minor-mode TeX-PDF-mode reftex-mode flyspell-mode)
+  13705
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-dos) (truncate-lines) (TeX-master . t)))
+
+(desktop-create-buffer 206
+  "/home/iensen/Dropbox/classes/causality/bn/doc/doc.log"
+  "doc.log"
+  'fundamental-mode
+  '(visual-line-mode ergoemacs-mode linum-mode undo-tree-mode yas/minor-mode TeX-PDF-mode reftex-mode flyspell-mode)
+  4973
+  '(1 nil)
+  t
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/iensen/Dropbox/classes/DP/slidez/preentation.log"
+  "preentation.log"
+  'fundamental-mode
+  '(visual-line-mode ergoemacs-mode linum-mode undo-tree-mode yas/minor-mode TeX-PDF-mode reftex-mode flyspell-mode)
+  35042
+  '(1 nil)
+  t
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/iensen/Dropbox/classes/DP/final_report/functional_testing.log"
+  "functional_testing.log"
+  'fundamental-mode
+  '(visual-line-mode ergoemacs-mode linum-mode undo-tree-mode yas/minor-mode TeX-PDF-mode reftex-mode flyspell-mode)
+  19387
+  '(1 nil)
+  t
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . iso-latin-1-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/iensen/Dropbox/classes/DP/final_report/_region_.tex"
+  "_region_.tex"
+  'latex-mode
+  '(visual-line-mode ergoemacs-mode linum-mode yas/minor-mode TeX-PDF-mode reftex-mode flyspell-mode)
+  1537
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines) (TeX-master . t)))
+
+(desktop-create-buffer 206
+  "/home/iensen/Dropbox/plog/explanatiuon/desc.log"
+  "desc.log"
+  'fundamental-mode
+  '(visual-line-mode ergoemacs-mode linum-mode undo-tree-mode yas/minor-mode TeX-PDF-mode reftex-mode flyspell-mode)
+  4457
+  '(1 nil)
+  t
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/iensen/last_elps/ELPS/ELPS.log"
+  "ELPS.log"
+  'fundamental-mode
+  '(visual-line-mode ergoemacs-mode linum-mode undo-tree-mode yas/minor-mode TeX-PDF-mode reftex-mode flyspell-mode)
+  26616
+  '(110 nil)
+  t
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+

@@ -1,0 +1,256 @@
+((("Data.Set.map" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("Data.Set.null" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("nodeFromAtEvent" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("event" .
+   [1 0 0 0 0])
+  ("nodeFromId" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("net" .
+   [4 0 0])
+  ("newUnexplored" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("fromList" .
+   [2 0 0 0 0 0 0 0])
+  ("singleton" .
+   [3 0 0 0 0 0 0 0 0])
+  ("unexploredButMin" .
+   [1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("closure" .
+   [4 0 0 0 0 0 0])
+  ("unexplored" .
+   [4 0 0 0 0 0 0 0 0 0])
+  ("closed" .
+   [2 0 0 0 0 0])
+  ("Data.Set.union" .
+   [3 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("from" .
+   [1 0 0 0])
+  ("empty" .
+   [1 0 0 0 0])
+  ("getParents" .
+   [3 0 0 0 0 0 0 0 0 0])
+  ("augmAncestors" .
+   [1 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("ancestors" .
+   [6 0 0 0 0 0 0 0 0])
+  ("getAncestorsClosure" .
+   [4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("getAncestorsRec" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("EmptyDataDecls" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("getAncestors" .
+   [2 0 0 0 0 2 0 0 0 0 0 0])
+  ("obsVars" .
+   [24 0 0 0 0 0 0])
+  ("vowels" .
+   [1 0 0 0 0 0])
+  ("randint" .
+   [1 0 0 0 0 0 0])
+  ("random" .
+   [1 0 0 0 0 0])
+  ("vowelProb" .
+   [1 0 0 0 0 0 0 0 0])
+  ("words" .
+   [2 0 0 0 0])
+  ("tests" .
+   [1 0 0 0 0])
+  ("BayesianNetwork" .
+   [0 0 0 0 1 0 0 0 0 1 0 0 0 0 0])
+  ("nodes" .
+   [7 0 0 0 0])
+  ("Cpt" .
+   [1 0 0])
+  ("Event" .
+   [12 0 0 0 0])
+  ("AtomicEvent" .
+   [5 0 0 1 0 0 0 0 0 0 1])
+  ("events" .
+   [12 0 0 0 0 0])
+  ("cptEvents" .
+   [10 0 0 0 0 0 0 0 0])
+  ("probs" .
+   [8 0 0 0 0])
+  ("multiplier" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("probIndexRec" .
+   [2 0 0 0 0 0 0 0 0 0 0 0])
+  ("Idx" .
+   [2 0 0])
+  ("mult" .
+   [3 0 0 0])
+  ("probIndex" .
+   [2 0 0 0 0 0 0 0 0])
+  ("deriving" .
+   [0 0 0 0 1 0 0 1])
+  ("suffixIdx" .
+   [2 0 0 0 0 0 0 0 0])
+  ("Debug.Trace" .
+   [0 0 1 0 0 0 0 0 0 0 0])
+  ("Compl" .
+   [2 0 0 0 0])
+  ("atomicEvent" .
+   [3 0 0 0 0 0 0 0 0 0 0])
+  ("atomOf" .
+   [1 0 0 1 0 0])
+  ("Neg" .
+   [7 0 0])
+  ("probability" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("parents" .
+   [13 0 0 0 0 0 1])
+  ("observedEvents" .
+   [1 0 3 1 0 0 0 0 1 0 0 0 0 0])
+  ("parentEvents" .
+   [2 0 0 0 0 0 1 0 0 0 0 0])
+  ("probList" .
+   [4 0 0 0 0 0 0 0])
+  ("joint" .
+   [2 0 0 0 0])
+  ("jointProb" .
+   [6 0 0 0 0 0 0 0 0])
+  ("jointProbRec" .
+   [4 0 0 0 0 0 0 0 0 0 0 0])
+  ("condEventProb" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("bnet" .
+   [16 0 0 0])
+  ("find" .
+   [2 0 0 0])
+  ("Data.List" .
+   [0 0 0 0 0 0 1 0 0])
+  ("Node" .
+   [3 0 0 0])
+  ("nodeName" .
+   [4 0 0 0 0 0 0 0])
+  ("node" .
+   [6 0 0 0])
+  ("==e" .
+   [1 0 0])
+  ("name" .
+   [2 0 0 0])
+  ("prs" .
+   [1 0 0])
+  ("Formula" .
+   [6 0 0 0 0 0 2])
+  ("Show" .
+   [2 0 0 0])
+  ("getAtomicEvents" .
+   [3 0 0 0 0 0 0 1 0 2 0 0 0 0 0])
+  ("Data.Set" .
+   [0 0 0 0 0 0 0 1])
+  ("union" .
+   [8 0 0 0 0])
+  ("formula" .
+   [3 0 0 0 0 0 0])
+  ("atEvents" .
+   [1 0 0 0 0 0 0 0])
+  ("get" .
+   [2 0 0])
+  ("getAllAssign" .
+   [4 0 0 0 0 0 1 0 0 0 0 0])
+  ("eventList" .
+   [1 0 0 0 0 0 0 0 0])
+  ("allAssign" .
+   [1 0 0 0 0 0 0 0 0])
+  ("assignment" .
+   [9 0 0 0 0 0 0 0 0 0])
+  ("eval" .
+   [5 0 0 0])
+  ("getDNF" .
+   [1 0 0 0 0 0])
+  ("prob" .
+   [2 0 0 0])
+  ("allEvents" .
+   [5 0 0 0 0 0 0 0 0])
+  ("consJointProbs" .
+   [4 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("e:es" .
+   [1 0 0 0])
+  ("conj" .
+   [7 0 0 0])
+  ("Pos" .
+   [2 0 0])
+  ("probDnf" .
+   [2 0 0 0 0 0 0])
+  ("inCount" .
+   [1 0 0 0 0 0 0])
+  ("dnf" .
+   [3 0 0])
+  ("getSuperSet" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("superSet" .
+   [4 0 0 0 0 0 0 0])
+  ("counter" .
+   [1 0 0 0 0 0 0])
+  ("createTuple" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("margProb" .
+   [2 0 0 0 0 0 0 0])
+  ("conjs" .
+   [1 0 0 0 0])
+  ("run_plog" .
+   [1 0 0 0 0 0 0 0])
+  ("program" .
+   [1 0 0 0 0 0 0])
+  ("possible_worlds" .
+   [1 0 0 0 0 1 1 0 0 0 0 0 0 0 0])
+  ("command" .
+   [1 0 0 0 0 0 0])
+  ("generate_plog_command" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("options" .
+   [3 0 0 0 0 0 0])
+  ("args" .
+   [1 0 0 0])
+  ("measure" .
+   [1 0 0 0 0 0 0])
+  ("result" .
+   [3 0 0 0 0 0])
+  ("stderr" .
+   [2 0 0 0 0 0])
+  ("readlines" .
+   [1 0 0 0 1 1 0 0 0])
+  ("string" .
+   [1 0 0 0 0 0])
+  ("line" .
+   [12 0 0 0])
+  ("errors" .
+   [6 0 0 0 0 0])
+  ("PlogPlannerSystemRuntimeException" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("source" .
+   [1 0 0 0 0 0])
+  ("file_path" .
+   [3 0 0 0 0 0 0 0 0])
+  ("self" .
+   [1 0 0 0])
+  ("FileNotFoundRuntimeException" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("SyntaxErrorRuntimeException" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("stdout" .
+   [1 0 0 0 0 0])
+  ("startswith" .
+   [0 0 0 2 0 0 0 0 0 0])
+  ("curSet" .
+   [1 0 0 1 0 0])
+  ("add" .
+   [3 0 0])
+  ("possible_world" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("DOWN" .
+   [1 0 0 0])
+  ("createUpVnode" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("nodeOf" .
+   [5 0 0 0 0 0])
+  ("javaset" .
+   [3 0 0 0 0 0 0])
+  ("txt" .
+   [1 0 0])
+  ("aspset" .
+   [3 0 0 0 0 0])))
